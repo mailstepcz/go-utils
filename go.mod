@@ -1,4 +1,4 @@
-module github.com/fealsamh/go-utils
+module github.com/mailstepcz/go-utils
 
 go 1.23.0
 
