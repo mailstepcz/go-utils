@@ -6,7 +6,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/fealsamh/go-utils/textutils"
+	"github.com/mailstepcz/go-utils/textutils"
 )
 
 // Case is a specific text case.

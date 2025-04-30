@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/fealsamh/go-utils/nocopy"
+	"github.com/mailstepcz/go-utils/nocopy"
 	"github.com/syndtr/goleveldb/leveldb"
 	"google.golang.org/appengine/v2"
 	"google.golang.org/appengine/v2/memcache"

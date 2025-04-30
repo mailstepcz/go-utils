@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/fealsamh/go-utils/sexpr"
+	"github.com/mailstepcz/go-utils/sexpr"
 	"github.com/google/uuid"
 )
 

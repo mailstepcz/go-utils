@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/fealsamh/go-utils/tokeniser"
+	"github.com/mailstepcz/go-utils/tokeniser"
 )
 
 // Parse parses an s-expression from a slice of tokens.

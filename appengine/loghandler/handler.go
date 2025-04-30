@@ -6,7 +6,7 @@ import (
 	"log/slog"
 	"sync"
 
-	"github.com/fealsamh/go-utils/nocopy"
+	"github.com/mailstepcz/go-utils/nocopy"
 	gaelog "google.golang.org/appengine/v2/log"
 )
 
