@@ -47,6 +47,8 @@ func Wrap(err error, code Code) *WrappedError {
 }
 
 // FromError creates an error with an error code from the provided error.
+//
+// Deprecated: nothing in the workspace calls this; use serr with grpcerr or httperr instead.
 func FromError(err error) (*WrappedError, bool) {
 	switch {
 	case errors.Is(err, errors.ErrUnsupported):
